@@ -1,0 +1,125 @@
+@keyframes aparecer {
+
+    0% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+}
+
+@keyframes desaparecer {
+
+    0% {
+
+        opacity: 1;
+        transform: scale(1);
+
+    }
+
+    100% {
+
+        opacity: 0;
+        transform: scale(.8);
+
+    }
+
+}
+
+@keyframes respirarOjo {
+
+    0% {
+
+        opacity: 0;
+
+    }
+
+    25% {
+
+        opacity: .15;
+
+    }
+
+    50% {
+
+        opacity: .35;
+
+    }
+
+    75% {
+
+        opacity: .25;
+
+    }
+
+    100% {
+
+        opacity: 0;
+
+    }
+
+}
+
+@keyframes aparecerVentana {
+
+    0% {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.85);
+    }
+
+    60% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1.04);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+
+}
+
+#pantallaCarga {
+
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: black;
+
+    color: white;
+
+    gap: 25px;
+
+}
+
+@keyframes desaparecerVentana {
+
+    from {
+
+        opacity: 1;
+
+        transform: translate(-50%, -50%) scale(1);
+
+    }
+
+    to {
+
+        opacity: 0;
+
+        transform: translate(-50%, -50%) scale(0.85);
+
+    }
+
+}

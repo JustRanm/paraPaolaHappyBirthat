@@ -1,0 +1,684 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    width: 100vw;
+    height: 100vh;
+
+    overflow: hidden;
+
+    background-image: url("../fotos/fondo/laminal4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+
+}
+
+#fondo {
+
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+
+}
+
+#pantallaLogin {
+
+    position: fixed;
+
+    left: 0;
+    top: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: black;
+
+    overflow: hidden;
+
+}
+
+#fondoOjos {
+
+    position: absolute;
+
+    left: 0;
+    top: 0;
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+}
+
+#contenedorLogin {
+
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    z-index: 100;
+
+}
+
+.ventanaXP {
+
+    width: 320px;
+
+    background: #ECE9D8;
+
+    border: 2px solid #245EDB;
+
+    box-shadow: 0 0 20px black;
+
+    border-radius: 6px;
+
+    overflow: hidden;
+
+    animation: aparecerVentana 0.35s ease-out;
+}
+
+.barraTitulo {
+
+    background: #245EDB;
+
+    color: white;
+
+    padding: 8px;
+
+    font-weight: bold;
+
+}
+
+.contenidoLogin {
+
+    display: flex;
+
+    flex-direction: column;
+
+    padding: 20px;
+
+    gap: 10px;
+
+}
+
+.ventanaEmergente {
+
+    position: fixed;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 320px;
+
+    background: #ECE9D8;
+
+    border: 2px solid #245EDB;
+
+    border-radius: 6px;
+
+    box-shadow: 0 0 20px black;
+
+    z-index: 99999;
+
+    animation: aparecerVentana .3s ease-out;
+
+}
+
+
+.contenidoVentana {
+
+    padding: 20px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 20px;
+
+}
+
+
+.mensajeVentana {
+
+    display: flex;
+
+    align-items: flex-start;
+
+    gap: 15px;
+
+}
+
+
+.mensajeVentana p {
+
+    flex: 1;
+
+    margin: 0;
+
+    font-size: 18px;
+
+    font-family: Tahoma, sans-serif;
+
+    line-height: 1.4;
+
+}
+
+.iconoVentana {
+
+    font-size: 40px;
+
+    width: 40px;
+
+    flex-shrink: 0;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+.contenidoVentana button {
+
+    align-self: center;
+
+}
+
+.textoCarga {
+
+    font-size: 22px;
+
+    font-family: Tahoma;
+
+    letter-spacing: 2px;
+
+}
+
+.barraCarga {
+
+    width: 350px;
+
+    height: 18px;
+
+    border: 2px solid white;
+
+}
+
+#progresoCarga {
+
+    width: 0%;
+
+    height: 100%;
+
+    background: #245EDB;
+
+    transition: width .12s linear;
+
+}
+
+#pantallaLogin {
+
+    transition: opacity .8s ease;
+
+}
+
+
+
+
+
+
+
+#ventanaTonta {
+
+    position: fixed;
+
+
+    transform: translate(-50%, -50%);
+
+    z-index: 999999;
+}
+
+.contenidoJuego {
+
+    padding: 25px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    gap: 20px;
+
+}
+
+.botonesJuego {
+
+    display: flex;
+
+    gap: 20px;
+
+}
+
+#ventanaImagen {
+
+    position: fixed;
+
+    left: calc(50% + 240px);
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    z-index: 99998;
+
+}
+
+.contenidoImagen {
+
+    padding: 10px;
+
+}
+
+.contenidoImagen img {
+
+    width: 220px;
+
+    display: block;
+
+}
+
+
+
+#ventanaMemoria {
+
+    position: fixed;
+
+    left: 50%;
+
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+
+    width: 620px;
+
+    background: #ECE9D8;
+
+}
+
+
+#tableroMemoria {
+
+    padding: 20px;
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 18px;
+
+}
+
+.carta {
+
+    height: 120px;
+
+    border: 2px solid #245EDB;
+
+    background: white;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    font-size: 40px;
+
+    cursor: pointer;
+
+    user-select: none;
+
+    transition: .2s;
+
+}
+
+.carta:hover {
+
+    transform: scale(1.05);
+
+}
+
+.ventanaMemoriaImagen {
+
+    position: fixed;
+
+    width: 320px;
+
+    z-index: 999999;
+
+}
+
+
+
+.ventanaRecuerdo {
+    width: 320px;
+}
+
+@media (max-width:1400px) {
+    .ventanaRecuerdo {
+        width: 220px;
+    }
+}
+
+.ventanaGrande {
+    position: fixed;
+
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 700px;
+    max-width: 90vw;
+
+    max-height: 90vh;
+    /* <- importante */
+    overflow-y: auto;
+    /* <- importante */
+
+    background: #ECE9D8;
+    border: 2px solid #245EDB;
+    border-radius: 6px;
+    box-shadow: 0 0 20px black;
+
+    z-index: 999999;
+    animation: aparecerVentana .35s ease-out;
+}
+
+.contenidoVentanaGrande {
+
+    display: flex;
+
+    flex-direction: column;
+
+    padding: 25px;
+
+    gap: 20px;
+
+}
+
+.textoVentanaGrande {
+
+    font-family: Tahoma, sans-serif;
+
+    font-size: 18px;
+
+    line-height: 1.7;
+
+    white-space: pre-line;
+
+    text-align: justify;
+
+}
+
+.contenidoVentanaGrande button {
+
+    align-self: center;
+
+}
+
+#tableroDisparos {
+
+    display: grid;
+
+    grid-template-columns: repeat(3, 120px);
+
+    gap: 20px;
+
+    justify-content: center;
+
+    margin-top: 20px;
+    z-index: 999999;
+
+}
+
+.contenidoDisparos {
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+    width: 100%;
+    height: 100%;
+
+}
+
+.hueco {
+
+    width: 120px;
+
+    height: 120px;
+
+    border-radius: 50%;
+
+    background: #2b2b2b;
+
+    border: 4px solid #555;
+
+    cursor: pointer;
+
+    overflow: hidden;
+
+    position: relative;
+
+}
+
+#puntaje {
+
+    width: 100%;
+
+    text-align: center;
+
+    font-size: 22px;
+
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+
+.objetivo {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    pointer-events: none;
+
+}
+
+
+
+
+#barraCargaExterior {
+
+    width: 100%;
+
+    height: 24px;
+
+    background: #8b8b8b;
+
+    border: 2px inset white;
+
+    margin-top: 20px;
+
+}
+
+#barraCargaInterior {
+
+    width: 0%;
+
+    height: 100%;
+
+    background: #245EDB;
+
+    transition: width .05s linear;
+
+}
+
+#porcentajeCarga {
+
+    margin-top: 10px;
+
+    text-align: center;
+
+    font-weight: bold;
+
+}
+
+#pantallaAzul {
+
+    position: fixed;
+
+    inset: 0;
+
+    background: #0078D7;
+
+    color: white;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+
+    align-items: center;
+
+    font-family: Consolas;
+
+    z-index: 999999999;
+
+}
+
+
+#pantallaRecuperacion {
+
+    position: fixed;
+
+    inset: 0;
+
+    width: 100vw;
+
+    height: 100vh;
+
+    background: black;
+
+    color: #00ff00;
+
+    font-family: Consolas, monospace;
+
+    padding: 25px;
+
+    box-sizing: border-box;
+
+    overflow: hidden;
+
+    z-index: 999999999;
+
+}
+
+#terminalRecuperacion {
+
+    margin: 0;
+
+    white-space: pre-wrap;
+
+    font-size: 15px;
+
+}
+
+
+.ventanaMensajeFinal {
+    width: 700px;
+    max-width: 90vw;
+
+    max-height: 90vh;
+    overflow-y: auto;
+
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    z-index: 999999;
+}
+
+.contenidoMensajeFinal {
+    padding: 30px;
+    font-size: 21px;
+    line-height: 1.7;
+    text-align: justify;
+
+    max-height: calc(90vh - 60px);
+    overflow-y: auto;
+}
+
+.fotoFinal img {
+
+    width: 100%;
+
+    display: block;
+
+}
+
+.fotoFinal {
+
+    position: absolute;
+
+    width: 180px;
+
+    background: white;
+
+    padding: 8px;
+
+    border-radius: 8px;
+
+    box-shadow: 0 0 20px rgba(0, 0, 0, .45);
+
+    animation: aparecerVentana .4s ease-out;
+
+    z-index: 10;
+
+}
+
+
+.modal {
+    width: 90%;
+    max-width: 900px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.fondoModal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}

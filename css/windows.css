@@ -1,0 +1,24 @@
+.ventana {
+
+    position: absolute;
+
+    max-width: 720px;
+
+    width: auto;
+
+    animation: aparecer .35s ease-out;
+}
+
+.ojo {
+
+    position: absolute;
+
+    width: 120px;
+
+    opacity: 0.35;
+
+    animation-name: respirarOjo;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+
+}

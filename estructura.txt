@@ -1,0 +1,145 @@
+
+Fondo de pagina
+estilo windows xp + myspace + webcore/weirdcore
+el fondo para cada interaccion sera distinto, y comenzaran a aparecer pestañas de manera aleatoria de distintos tamaños y en profundidad, la idea es hacer ese entorno saturado del webcore
+las ventanas se cierran se abren hasta un punto, que se abre la ventana del minijuego sopreponiendose en las que quedaron, dependiendo del minijuego la ventana será mas grande o mas pequeña pero sin tapar
+del todo el fondo
+
+- Primera interacción 
+
+
+Contraseña
+
+Fondo negro Letras blancas y ojos alrededor varios ojos
+
+Si pone cualquier numero:
+1er intento
+"Mmm, no eres quien busco"
+2do intento
+"Ya te dije que no eres quien busco"
+3er intento
+"Enserio?, sigues aca intentando aun?"
+4to en adelante
+"Denegado, fuera, largo, definitivamente no eres"
+
+Si pone 218:
+1er intento
+"Si eressss, y al primer intento , Felizz cumpleañossssss perrita esto es pa ti <3"
+2do intento 
+"Bueno al segundo, pero si eres Feliz cumpleaños perrita esto es pa ti <3"
+3er intento
+"Casi que no mera lenta, pero si eres Feliz cumpleaños perrita esto es pa ti <3"
+4to en adelante
+"Enserio? , casi que no le atinas, te tomo resto que pene, igual si eres Feliz cumpleaños perrita esto es pa ti <3  "
+
+Boton comenzar
+
+- SegundaInteraccion:
+
+Sale una ventana con una pregunta, eres tonta? 
+
+Si unde No
+primer click: se mueve un poquito la ventana
+segundo click: salta a una esquina
+tercer click: escapa del mouse
+cuarto click: cambia de tamaño y salta un mensaje "No puedes escapar."
+clicks consecutivos, la pesta;a se mueve y salta mensaje
+"De la verdad."
+"Aceptalo ya."
+"Muchos intentos no crees, ya rindete."
+"YAAAA."
+"Rindeteee."
+Si unde si
+si es a la primera
+"Oye lo aceptastes de una, como le sabes, y Aunque lo seas un poquitito, eres increible enana, no dejes que nada ni nadie te venga a romper, no seas tan tonta, mira aca estas tu antes de que fueras bien tonta y cayeras"
+segunda vez
+"Bueno lo aceptastes relativamente rapido, enhorabuena que lo aceptes y Aunque lo seas un poquitito, eres increible enana, no dejes que nada ni nadie te venga a romper, no seas tan tonta, mira aca estas tu antes de que fueras bien tonta y cayeras."
+tercera vez
+"Oye casi que no lo aceptas bro, tanto escapas de la realidad jajajaja y aunque lo seas un poquitito, eres increible enana, no dejes que nada ni nadie te venga a romper, no seas tan tonta, mira aca estas tu antes de que fueras bien tonta y cayeras." 
+Cuarta vez
+"Casi que no te rindes bobita, hasta que al final aceptas, y aunque lo seas un poquitito, eres increible enana, no dejes que nada ni nadie te venga a romper, no seas tan tonta, mira aca estas tu antes de que fueras bien tonta y cayeras.""
+Boton continuar
+
+- TerceraInteraccion:
+Vaul de los recuerdos
+
+Juego de cartas de memoria pero con fotos, mas o menos 5 imagenes, por ende serian 10 cartas, por cada par que encuentre saldra un mensaje de felicitaciones por encontrar un par,
+
+Cuando no:
+Mensajes aleatorios de error hechos en css
+💾 Archivo
+Archivo equivocado, ponga a camellar esas neuronas porfa.
+
+[Aceptar]
+
+🧠 Neurona.exe
+Las neuronas están
+actualizando...
+
+0%
+
+[Aceptar]
+⚠ Advertencia
+¿Segura de eso?
+
+[Aceptar]
+Piénsalo otra vez niña.
+
+[Aceptar]
+❌ Error
+Ese no era.
+
+[Aceptar]
+JAJAJAJ que lenta.
+
+[Aceptar]
+Mmm... casi, toca leer un poquito mas bro.
+
+[Aceptar]
+
+Cuando encuentra los pares
+1rafoto econtrada:
+casos especiales(Salta una pesta;a con un mensajes personalizados, donde salen fotos relacionadas):
+Banano: "JAJAJAJ recuerdas tiempo atras que te mantenia enviado fotos con ese filtrooo y te molestaba para que lo hicieras tambien, hasta que lo hicistes
+en forma de banano, eso fue apenas nos conocimos casi, pues bueno realmente esos meses, si lo piensas hemos pasado por mucho, donde ambos hemos cambiado en cierta manera
+pero la confianza se ah intensificado."
+sonrisa: "NO pierdas esa sonrisa bonita que tienes, ahora quizas no sean los mejores tiempos, yo lo eh presenciado como esa sonrisa se ah apagado, por todo lo que ha pasado, y sobre 
+todo ahora esta sucediendo por estos dias, sin embargo se que esa sonrisa volvera y quisiera poderlo presenciar, no dejes que nada ni nadie se salga con la suya, corazon."
+
+casos normales
+"💾 Primer recuerdo recuperado."
+2da:
+"Oye, vas bastante bien."
+3ra:
+"Ya casi recuperas todos los archivos."
+4to 
+"Tu memoria funciona mejor de lo que esperaba la verdad, poca fe tenia. solo queda uno"
+5to
+"Baul de los recuerdos restaurado con exito"
+Mensaje final:
+"Si ya estas aquí, significa que ya has logrado restaurar todos los archivos jajajaja, ay bro, no pierdas tu escancia que te hace única, que te hace tu, ciertas veces veo que dudas de quien eres
+y eso esta bien porque constantemente cambiamos, pero no dejes que esas dudas ni que los sentimientos provocados por cosas ajenas a ti interfieran en tu escancia, la base de todo, tus semblantes, no puedes dudar de ti,
+porque aunque no es así al final tu eres la que se tiene así misma, solo tu puedes superar todo eso que estas sintiendo, ah superar me refiero a aguantar mija, lo que has hecho muy bien y admiro, porque estas cargada de
+sentimientos negativos, ah discursos que cuestionan quien eres ahora por parte de tu circulo mas cercano, tu propia familia, no digo que seas inmune pero te mantienes, lo sufres si, lo lloras también, pero sigues, y asi bro 
+con el tiempo las cosas se convertirán en esto, recuerdos de un pasado, vivencias ya vividas jajajaj, esa escritura,... todo queda en eso, en momentos que luego recordaras por si sola o usando huellas digitalizadas como estas y
+veras de una manera distinta, por que como mencione al principio estamos en cambio constante, solo a su debido tiempo cambia la perspectiva y eso te hará ver esos recuerdos desde otra perspectiva, sin perder igual lo que son, no debes olvidar, porque esos recuerdos eres tu, forman parte de tu pasado de quien eres ahora, no intentes olvidar los recuerdos que te producen sentimientos negativos asumelos enfrentalos, siéntelos, que luego con el tiempo se convertirán solo en huellas de tu corazon que quedaran asociadas a las demás huellas digitales y físicas, y a un recuerdo."
+
+
+
+Interacción cuatro
+un jueguito estilo topo donde los parceros son los enemigos y los animalitos aliados, si le dispara a un aliado puntaje negativo y aun enemigo positivo hasta llegar a 218, de ahí sobre carga de ventanas fulll, quitamos la ventana de topo ponemos una de carga y inicia una sobrecarga masiva pasiva hasta que llega 100 y saca pantallazo azul
+
+interacción 5
+Aquí luego del pantallazo azul se pone negro y salen unas líneas de en verde como si fuera un reinicio de sistema y luego salen 3 mensajes, mientras ocurren van a estar apareciendo y desapareciendo fotos en el fondo, pero ya no son cualquier fotos sino relacionadas para nosotros, cuando ya le de a finalizar en el ulimo mensaje hacemo un pantallazo negro y otra barra de carga ccon reiniciando sistema y ya queda
+
+Mensaje 1
+"Al principio pensé en hacer un regalo sencillo, pero entre más avanzaba más me daba cuenta de que era imposible resumir todo en unas cuantas palabras. Entonces decidí hacer lo único que sabía hacer: convertir nuestros recuerdos en un pequeño mundo donde pudieras recorrerlos uno por uno."
+
+
+Mensaje 2
+"La cosa broa, es que te has vuelto alguien sumamente importante para mí, ciertamente estoy muy sorprendido hasta donde hemos llegado, tanto que hemos durado, para ser sincero no daba fe, porque como soy,  porque como eres no acostumbramos a hablar mucho con uan personas y sobre todo si la persona esa lejos, porque al final eso es importante, sin embargo nos hemos mantenido aquí unidos de alguna forma, hemos estado conectados casi que desde nos conocimos, si ya dirás al principio yo era un pene que se demoraba, pero por eso sabes por quien cambien por ti, al final ese de hablar por desparche todos los días termino generando inevitablemente en mi cariño hacia ti de verdad bro te aprecio muchísimo, tipo yo no me esperaba hablar casi todos los días, a excepción quizás del principio luego se volvió una rutina, contarnos los chistes, nuestras vivencias lo nuevo que veíamos, eso me ayudo mucho la verdad, TU me has ayudado mucho, has estado ahí, me has dado compañía risas, otros momentos en los que digo esta maldita malcriada, pero al final yo veo ese aprecio que también me tienes y eso también me motiva a seguir contigo, te voy a ser sincero decir que será para siempre es ingenuidad, sin embargo quisiera mantenerme contigo bro cerca  tuyo escuharte tus frustraciones sentimientos, y tu luego conmigo, aunque me cueste aceptar enana te has vuelto alguien capas de alterar mi estado de ánimo, y créeme eso no es fácil en mi pero es plenamente por como con el tiempo eh comenzado a quererte y apreciarte hasta el punto que ya eres alguien importante para mí, que me preocupa como esta, como se siente, el que anda hace,  me hace querer estar contigo y ayudarte, acompañarte que no te sientas tan sola, se que mi calor desde acá lejos no se siente, pero intento que mi presencia te abrigue, que sepas que tienes  ahí saquito que dañado y roto pero firme, q te podrá ayudar un poquito a sentir menos frio, y para eso estoy corazón, sabes plenamente que puedes confiar en mí, y si no te preocupes yo entiendo los desbalances como lo de ahora, a mí también me pasan, y créeme yo para ti soy paciente, yo comprendo como tú me has comprendido cuando eh estado mal y me eh distanciado un poquito y quizás más seco, pero aquí sabemos porque aunque hay veces uno cree dudar por parte y parte hemos demostrado que lo que hay acá no es nada falso, y el hecho de que sigamos hablando es un prueba de ello, y ese es el plan, está bien estar mal, pero intentemos mantenernos unidos, ambos no dudamos que nos queremos y que le tiempo quisiéramos o no ha generado cariño y apego hacia el otro , como te dije el futuro de nuestra conexión es incierto, pero por ahora quiero vivir y pasarla contigo ese tiempo hasta que si el momento llega porque nunca estamos exeptos de cosas que puedan pasar y personas que se pueden conocer, porque estamos lejos eso es un realidad triste pero realista, también soy un poco mayor entre comillas solo te llovo 4 años, pero evidentemente eso a ojos de tus padres un mejor amigo de 20 jajajajajaja, seria extraño, entonces aunque estuviéramos en el mismo sitio seria igual, pero eso no importa la verdad no me importa nada, porque contigo forme una rutina, haces parte de mi día, hablamos básicamente todos los días, contigo es con quien mas me eh abierto sobre mis problemas y  vicios, solo contigo eh logrado esa confianza alguien a quien nunca le eh dado la mano es curiosamente mas relevante que a muchos a quien se las eh dado, eres importante para mí, esto es la prueba de eso, quiero que te sientas especial, porque eso eres, una persona incrible que siente mucho y aunque es un virtud tambien se vuelve un arma de doble filo, pero aun asi no dejes de sentir, de preucuparte por los demas ante todo no desde de ser tu, y espero poderte acompa;ar lo mas posible ahora hablar contigo me releja me hace enojar me hace dar risa, basicamente me encanta hablar contigo y por eso mismo no quisiera perderlo."
+
+
+Mensaje 3
+"Hay chikiiii este es el ultimo mensaje la verdad no sabría muy bien que decir, mejor dicho aun no tengo una estructura para este párrafo, ni pa el otro, lo estoy haciendo al mero sentir a los meros recuerdos que pasan por mi cabeza de ti, mientras hago este escrito que curiosamente es el último, termino esto lo pego gestiono lo de la pagina y eh terminado, ajaajja persona mi déficit, mira bro eres un chica muy tierna con corazón nombre y empático, re preocupas por los demás, te incomoda que a otros le incomoden por ciertas cosas, eso super lindo tuyo no lo pierdas pero no dejes que abusen de eso, bro eres una chica muy tierna y cargada de cosas por decir y pensar aunque redundantemente ahora ultimo las ideas han disminuido, pero recuerdas antes que nos poníamos hablar pura mierda y tu sacabas a relucir tu imaginación esa cosa esa palabra también es parte de ti enana, imaginas cosas que otros no y eso me encanta y eso me confirme tu firme personalidad, por la capacidad que tienes para ver las cosas, me parece impresionante así mismo como tu residencia ante el rechazo por ser quien eres ahora y quizás sigas siendo, sé que meh algo hace como dices uno se acostumbra pero algo hace, eso la verdad lo admiro bro, te pares firme ante lo que no puedes controlar, si sientes las cosas, las lloras, pero te mantienes de pie, y por fa sigue haciéndolo, hasta cuando yo ya no este si es que llega a pasar que igual por lo menos para mi es mucho mejor tenerte a mi lado quiero que este a mi lado, que te quedes a mi lado, no quiero perderte y sé que tú tampoco a mí me lo has demostrado yo eso lo veo lo siento y me emociona y por eso decidí tener algo especial contigo, puede haber hecho algo mucho más breve pero quería que fuera único que si sintiera que es para ti  y de paso que sea algo que puedas recordar siempre con un URL,  eres fuerte y valiente, pero sientes mucho, eso te bajonea y te hace malas jugadas, pero recuerdo esto mi amor,  las aguas y la oleas golpean el bote, capitán decide que hacer, no puede detener el oleaje ni nada a su alrededor, pero si tus acciones y decisiones frente  a eso, de verdad me pone muy mal verte sufrir tanto por lo que paso, eh intento comprenderte aunque hay veces la indiferencia me duela se que no eres así, solo estas mal y en esos instante pocas cosas te importan, y eso me preocupa por que siento que hasta yo podría dejarte de importar y ufff lo siento dentro de mi mucho, porque así como tú a mi yo también temo perderte chiki y mucho, demasiado en este punto me acostumbre a vos,  a ver tus mensajes en la mañana o en la tarde a que me recoches, ahora haces parte de mi día y si llegaras a desaparecer no se ni siquiera como lo afrentaría. Lo terminaría siendo pero sería desagradable, tu mi bro fuera de todo pronóstico te volviste mi super bro, nunca me había esmerado a hablar por redes hasta que te conocí, cuando menos pensé era todos los días buenos días, hablar durante todo día, durante la clase me la pasaba,, luego un rato en la noche y sigue el otro día ¿, nos contábamos aun nos contamos lo que nos pasaba con la gente lo que vivíamos, al final enanita, somos seres rotos, con situaciones familiares parecidas y vicios distintos, pero yo quero superar eso y en parte yo sé que tú también mi niña, y quisiera que siguaramos juntos luchando contra nuestro infortunio que aunque físicamente no nos podamos dar garantía tener a alguien con quien hablar así sea a distancia ayuda mucho, así que no te alejes peke, te kierojuntoami, espero que el día de ayer lo allas disfrutado dentro de lo que cabe, me tienes que contar que hicieron bobita que fue lo que te termino de arruinar el día, si supieras cuanto me pesa no haberte dado el regalo ni si quiera el tres no se si a ti te moleste pero te lo juro que lo  intente estuve todo rato por eso casi ni te respondí, para entregarte algo que dentro mi concepción tiene su belleza tiene personalidad, pero tú serás la jueza final, bro te lo repito por tercera vez Eres tú alguien importante para mí, quiero seguir a tu lado, tú quieres también estar a mi lado?. Eres alguien muy interesantes me gusta mucho los temas y cosas que hablas y eso que antes era más, luego del cris esas ideas se apagaron, porque pusiste a tu cerebro a pensar en otra cosa, pero confía en mi chki, eso pasara ahora son días de mierda y seguirán habiendo días de mierda tengo por seguro, pero en esos días hay pequeños momentos en los uno ya no se siente mal, se siente libre y  en cierto modo aunque sea unos segundos uno es feliz, eso buscamos a eso nos aferramos a esos momentos así que no te me desmorones querida y si lo vas hacer acude a mí, sabes que soy tu mejor amigo, quien ha estado desde los principios de varios de tus infortunios y espero seguirlo estando para apoyarte cuando la vida es una mierda y cuando las personas lo son, eres una chica linda en todo sentido, y sobre todo divertida, tienes algo muy especial creerme, eso hace que irónicamente aun este aquí, haga cosas que normalmente no hago, eres la primera que le hago una página de este índole porque quiero que te sientas importante por que lo eres,   la primera que me esmero por contestarle por estar pendiente, dentro de lo que cabe, tengo mis bajones si lo sabes también soy un ser fragmentado, pero sigue acá bro, siento que contigo los fragmentos ya no se dispersan tanto y algunos hasta empiezan a unirse. Quisiera decir más pero siento que seria redundante,  se fuerte Pao, eres fuerte pao, TEE quiero Un MONTONNN, espero seguir hablando contigo y que superemos los bajones del otro juntos, este es mi regalo. Para Desearte FELIZZZZZZZ CUMPLEAÑOSSSSS que cumplas muchísimos más bro, sigue intentando, lucha con lo que tengas que luchar pero más importante siente, no le temas a sentir, por que como puedes sentir felicidad así mismo tristeza la clave es no dejarse abrumar, si sentirla, vivirla pero no que abrume no de manera que nuble tu juicio, bueno ya es suficiente. Feliz cumpleaños reina, aunque día después, perdón de corazón me pesa mucho, pero bueno por lo menos lo termine ya, solo 6 horitas, espero hayas disfrutado la experiencia fue ella plenamente para ti, y aunque estos últimos días no haya podido responde bien, créeme que has estado en mi cabeza todos esos días, que el no responderte era por trabajar en ese detalle que te haga sentir especial o bueno eso intente no se si lo logre, pero al fin del cabo espero lo hayas disfrutado, eso fue hecho exclusivamente para ti, cada mensaje cada foto la elegí pensando que te gustaría, bueno ya llevo dos hojas de Word en este mensaje supongo que no hay más que decir espero ayer allas disfrutado así sea un poquito niña, te espero para la próxima actualización, cuídate y cuida tu esencia, FELIZ CUMPLEAÑOS MI REINA. Espero este regalos te aya sacado así se aun sonrisita, con eso ya quedo satisfecho solo quiero verte bien esa es mi reconfortacion, pero bueno mi tdah me hace extenderme que cumplas muchísimos años mas, para que quizás algún día nos veamos o no, no lo se como te dije el futuro no me preocupa solo el ahora, y por ahora kieroestarcontigo. <3"
+
