@@ -111,7 +111,7 @@ function responderSi() {
     }
 
 
-    mostrarImagen("fotos/minijuego1/pao1.jpeg");
+    mostrarImagen("fotos/miniJuego1/pao1.jpeg");
 
 
     mostrarVentana(
