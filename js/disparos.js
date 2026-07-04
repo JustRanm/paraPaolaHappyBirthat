@@ -130,7 +130,7 @@ function aparecerObjetivo() {
 
     hueco.innerHTML = `
 
-    <img src="fotos/minijuego3/${objetivo.imagen}" class="objetivo">
+    <img src="fotos/miniJuego3/${objetivo.imagen}" class="objetivo">
 
     `;
     setTimeout(() => {

@@ -21,12 +21,12 @@ const cartas = [
     },
 
     {
-        imagen: "Camisa1.jpeg",
+        imagen: "camisa1.jpeg",
         pareja: 2
     },
 
     {
-        imagen: "Camisa2.jpeg",
+        imagen: "camisa2.jpeg",
         pareja: 2
     },
 
@@ -198,7 +198,7 @@ function seleccionarCarta() {
 
         primeraCarta = datos;
 
-        primeraVentana = mostrarImagenMemoria("fotos/minijuego2/" + datos.imagen, true);
+        primeraVentana = mostrarImagenMemoria("fotos/miniJuego2/" + datos.imagen, true);
 
         primeraElemento = this;
 
@@ -207,7 +207,7 @@ function seleccionarCarta() {
     }
     segundaCarta = datos;
     segundoElemento = this;
-    segundaVentana = mostrarImagenMemoria("fotos/minijuego2/" + datos.imagen, false);
+    segundaVentana = mostrarImagenMemoria("fotos/miniJuego2/" + datos.imagen, false);
 
     bloqueado = true;
 
